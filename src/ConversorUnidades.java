@@ -17,6 +17,6 @@ public class ConversorUnidades {
 
     // Módulo 4 - Ivan Solano  (feature/cm-a-pulgadas)
     public double convertirCentimetrosAPulgadas(double centimetros) {
-        return 0; 
+    return centimetros * 0.393701;
     }
 }
