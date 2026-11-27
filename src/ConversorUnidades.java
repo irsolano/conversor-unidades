@@ -2,7 +2,7 @@ public class ConversorUnidades {
 
     // Módulo 1 - Ivan Solano (feature/km-a-millas)
     public double convertirKilometrosAMillas(double kilometros) {
-        return 0; 
+    return kilometros * 0.621371;
     }
 
     // Módulo 2 - laura Ramirez (feature/celsius-a-fahrenheit)
